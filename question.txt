@@ -1,0 +1,327 @@
+1. Dans les sites se signalant par leur qualité, lors du parcours d’achat…
+[plusieurs réponses]
+1.	Les mécanismes de fermeture de fenêtres sont visuellement rattachés à leur contenu.
+2.	Les vignettes et aperçus sont des images de taille supérieure redimensionnées côté client.
+3.	Les liens vers les versions équivalentes de la page ou du site sont rédigés dans leur langue cible.
+4.	Les limites de temps imposées à une action ou un accès sont indiquées.
+5.	Les objets inclus sont dotés d’une transcription textuelle
+2. Dans les sites se signalant par leur qualité, lors du parcours d’achat…
+[plusieurs réponses]
+1.	La modification de la qualité de chaque article, l’ajout et la suppression d’un ou plusieurs documents restent possibles avant la validation définitive de la commande.
+2.	Les modalités de récupération d’un bien dématérialisé sont précisées avant la commande.
+3.	Les délais nécessaires à la récupération d’un bien dématérialisé sont précisés après la validation de commande.
+4.	La modification de la quantité de chaque article, l’ajout et la suppression d’un ou plusieurs articles restent possibles avant la validation définitive de la commande
+3. Dans les sites se signalant par leur qualité, les dates de publication des contenus qui le nécessitent…
+[plusieurs réponses]
+1.	Sont affichées dans un format standard.
+2.	Sont précisées pour les contenus de plus de 24 heures.
+3.	Sont disponibles sous forme programmatique.
+4.	Sont indiquées.
+5.	Sont précisées pour les contenus de plus de 48 heures.
+4. Dans les sites se signalant par leur qualité évaluée sur la base des règles Opquast, le nombre de résultats par page affichée lors d’une recherche dans le site…
+[plusieurs réponses]
+1.	Est indiqué.
+2.	Est de 50 au maximum.
+3.	Est accompagné du nombre de pages de résultats.
+4.	Est de 20 au maximum.
+5.	Est modifiable par l’utilisateur.
+5. Dans les sites se signalant par leur qualité, l’utilisateur a accès…
+[plusieurs réponses]
+1.	À au moins un moyen de signaler un abus pour chaque zone de commentaire.
+2.	Au taux de popularité de ses commentaires publiés.
+3.	À la prévisualisation de ses contenus avant publication dans une zone de commentaire.
+4.	Au téléchargement de ses contenus publiés dans les zones de commentaire.
+5.	Aux conditions de modération de chaque zone de commentaire.
+6. Pour renforcer la sécurité…
+[plusieurs réponses]
+1.	Les opérations relatives aux mots de passe peuvent être effectuées intégralement en ligne.
+2.	Les opérations relatives aux mots de passe effectuées intégralement en ligne bénéficient d’une double validation.
+3.	Un dispositif sensibilise l’utilisateur sur le degré de sécurisation du mot de passe qu’il choisit.
+4.	Un dispositif impose à l’utilisateur un degré minimum de sécurisation pour les mots de passe qu’il choisit.
+7. Dans les sites se signalant par leur qualité, lors du parcours d’achat…
+[plusieurs réponses]
+1.	Les conditions de financement sont garanties.
+2.	Les coordonnées du service de remboursement sont indiquées dans les conditions générales de vente ou d’utilisation.
+3.	L’identité et un moyen de contact de tous les prestataires impliqués dans les transactions sont précisés.
+4.	Les recours en cas de litige sont indiqués dans les conditions générales de vente ou d’utilisation.
+5.	Les informations relatives à la zone de livraison des produits ou de réalisation des services sont indiquées
+8. Dans les sites se signalant par leur qualité, une métadonnée décrivant le contenu…
+[plusieurs réponses]
+1.	Est présente dans l’élément body du code source de chaque page du site.
+2.	Est présente dans l’élément head du code source de chaque page du site.
+3.	Est présente dans l’élément footer du code source de chaque page du site.
+4.	Est présente dans l’entête HTTP approprié.
+5.	Est présente dans le code source
+9. Dans les sites se signalant par leur qualité, le format utilisé pour les dates affichées dans les pages du site…
+[une réponse]
+1.	Est au format correspondant à la langue de préférence précisée par le navigateur.
+2.	Est mis à disposition sous forme programmatique.
+3.	Est conforme au standard ISO 8601.
+4.	Est explicite
+10. Dans les sites se signalant par leur qualité, les informations relatives aux droits de copie des contenus…
+[plusieurs réponses]
+1.	Sont affichées dans chaque pied de page.
+2.	Sont disponibles depuis toutes les pages.
+3.	Sont disponibles si les contenus sont sous copyright.
+4.	Sont disponibles pour tous les types de contenus.
+5.	Sont disponibles si les contenus sont sous licence libre.
+11. Dans les sites se signalant par leur qualité, les risques de conflits d’intérêt sont anticipés pour…
+[plusieurs réponses]
+1.	Les contenus sponsorisés.
+2.	Les contenus des espaces publics.
+3.	Les contenus réservés à un public spécifique.
+4.	Les contenus publicitaires
+12. Restreindre l’origine des contenus…
+[plusieurs réponses]
+1.	Demande une configuration de l’entête HTTP.
+2.	Relève des règles éditoriales.
+3.	Améliore le référencement du site.
+4.	Concerne les espaces publics du site.
+5.	Sécurise l’accès au site
+13. L’ajout au panier d’une offre de garantie optionnelle…
+[plusieurs réponses]
+1.	Doit être signalé visuellement et textuellement.
+2.	Doit être explicitement prévu dans les conditions générales de ventes.
+3.	Peut s’effectuer mais uniquement en "opt-in".
+4.	Ne doit être déclenchée que par l’utilisateur.
+5.	Doit s’effectuer en "opt-out"
+14. Le code source de chaque page contiendra des métadonnées permettant…
+[plusieurs réponses]
+1.	D’indiquer son auteur.
+2.	D’indiquer ses mots-clés.
+3.	D’indiquer sa date de publication.
+4.	De décrire son contenu.
+5.	De définir le jeu de caractères.
+15. Avant la validation définitive de la commande, on doit préciser à l’utilisateur…
+[plusieurs réponses]
+1.	Le délai de livraison garanti.
+2.	La référence de la transaction.
+3.	Le délai de livraison estimé.
+4.	Le sous-total détaillé du montant de la commande.
+5.	Les charges de frais de retour.
+16. La boutique doit permettre pour chaque produit, dans le cadre des règles Opquast…
+[une réponse]
+1.	De consulter ses caractéristiques quantifiables.
+2.	De comparer avec des produits du même type.
+3.	De gérer l’ajout à une liste d’envies.
+4.	De déposer un avis client.
+17. L’achat devra être possible…
+[une réponse]
+1.	En ligne mais pourra être déposé en boutique en cas de retour.
+2.	Sans création de compte.
+3.	Au moins par 2 moyens (par téléphone, en ligne, en boutique, etc.).
+4.	Obligatoirement avec création de compte
+18. La détection automatique par le navigateur du type MIME des ressources composant une page web…
+[plusieurs réponses]
+1.	Est un facteur de sécurité.
+2.	Améliore les performances de rendu dans le navigateur.
+3.	Est un facteur de risque pour la sécurité.
+4.	Doit être activée par l’envoi de l’entête HTTP appropriée.
+5.	Doit être désactivée par l’envoi de l’entête HTTP appropriée.
+19. La période et les conditions de validité des offres spéciales doivent être…
+[une réponse]
+1.	Indiquées dans les conditions générales de vente.
+2.	Indiquées.
+3.	Rappelées avant validation définitive de la commande.
+4.	Détaillées dans chaque page produit concernées
+20. Le contrôle d’intégrité des ressources tierces…
+[plusieurs réponses]
+1.	Prévient les risques d’affichage incomplet.
+2.	Améliore les performances de rendu.
+3.	Doit être présent et valide.
+4.	Réduit les coûts de bande passante.
+5.	Réduit le risque de diffusion de code malveillant.
+21. Les feuilles de style du site seront…
+[plusieurs réponses]
+1.	Compressées.
+2.	Commentées.
+3.	Minifiées.
+4.	Chiffrées.
+22. Pour renforcer la sécurité des données personnelles (Privacy)…
+[plusieurs réponses]
+1.	L’inscription à des services annexes est activée par défaut.
+2.	Les données bancaires ne sont mémorisées qu’après consentement explicite de l’utilisateur.
+3.	Les données bancaires mémorisées par le site peuvent être modifiées ou supprimées.
+4.	Les données bancaires ne sont pas mémorisées par le site.
+5.	La référence de la transaction n’est pas affichée en clair après validation de la commande
+23. Pour chaque commande… 
+[une réponse]
+1.	Le règlement par virement en différé est possible.
+2.	La charge des frais de retour est indiquée avant la validation définitive de la commande.
+3.	Le site est sécurisé en HTTPS à partir de l’étape de règlement.
+4.	Le montant hors-taxes est affiché par défaut
+24. Les tableaux de données…
+[plusieurs réponses]
+1.	Sont accompagnés d’une alternative.
+2.	Ne sont pas simulés à l’aide de texte mis en forme.
+3.	Sont accompagnés d’une description synthétique.
+4.	Sont linéarisables.
+5.	Utilisent le balisage approprié pour relier les cellules à leurs en-têtes.
+25. Pour assurer les bases de l’accessibilité aux personnes en situation de handicap…
+[plusieurs réponses]
+1.	Les icônes ne sont pas utilisées pour le menu de navigation principal.
+2.	Les contenus générés via les styles sont dotés d’une alternative appropriée.
+3.	Les pictogrammes typographiques sont dotés d’une alternative appropriée.
+4.	Les contenus générés lors des process de validation sont signalés par la mention appropriée.
+5.	Le contenu et le sens de chaque page ne sont pas altérés lorsque les styles sont désactivés
+26. L’inclusion des personnes en difficulté ou en situation de handicap…
+[plusieurs réponses]
+1.	Fait l’objet de règles et de standards dédiés qui peuvent nécessiter l’intervention complémentaire de spécialistes.
+2.	N’est pas un des champs d’action de l’assurance qualité web.
+3.	Concerne principalement la phase de développement.
+4.	Est à prendre en compte dès la phase de conception.
+5.	Est une obligation pour les sites de démarches administratives en ligne, mais ne concerne pas les entreprises privées.
+27. Afficher le menu principal de navigation sur des pages d’erreur…
+[plusieurs réponses]
+1.	Est un facteur de réassurance.
+2.	Évite aux utilisateurs l’effet déceptif du bouton "Précédent" du navigateur.
+3.	Peut être utile si on ne garantit pas l’absence de pages 404.
+4.	Permet de reprendre immédiatement la navigation.
+5.	Est une option complémentaire à l’affichage du formulaire de recherche sur le site
+28. Les rédacteurs doivent veiller à ce que…
+[plusieurs réponses]
+1.	Chaque image porteuse d’information soit dotée d’une alternative textuelle appropriée.
+2.	Chaque image décorative soit dotée d’une alternative textuelle appropriée.
+3.	Chaque image porteuse d’information soit accompagnée d’une description étendue.
+4.	Chaque image décorative soit dotée d’une alternative textuelle explicite.
+5.	Chaque image porteuse d’information soit dotée d’une alternative textuelle descriptive
+29. Concernant les tableaux, il faut veiller dans les contenus au respect des règles invitant…
+[plusieurs réponses]
+1.	À ne pas les simuler à l’aide de texte mis en forme.
+2.	À renseigner leur titre.
+3.	À éviter les tableaux de données complexes.
+4.	À leur donner une alternative textuelle.
+5.	À relier leurs cellules à leurs en-têtes.
+30. Pour améliorer la lisibilité des pages quel que soit l’agent utilisateur…
+[plusieurs réponses]
+1.	Les zones de clic sont balisées par l’élément HTML link-area.
+2.	Une famille générique de police est indiquée comme dernier élément de substitution.
+3.	Les contenus sont présentés avec un contraste suffisant par rapport à leur arrière-plan.
+4.	La taille de caractère minimum est au moins équivalente au double de la taille par défaut du navigateur.
+5.	Le site ne bloque pas les fonctionnalités de zoom du navigateur
+31. Parmi les règles d’assurance qualité suivantes, laquelle est essentielle en matière rédactionnelle ?
+[une réponse]
+1.	Chaque page contient des liens d’accès rapide placés au début du code source.
+2.	Les listes d’options de formulaires sont présentées dans un ordre identifiable.
+3.	Les processus complexes sont accompagnés de la liste de leurs étapes.
+4.	Les éléments visuellement présentés sous forme de liste sont balisés de façon appropriée dans le code source.
+32. Quelles sont les règles destinées à faciliter le remplissage des formulaires ?
+[plusieurs réponses]
+1.	Le temps nécessaire pour compléter chaque étape d’un processus complexe est indiqué.
+2.	Les informations complétant l’étiquette d’un champ sont rattachées au titre du formulaire et consultable globalement.
+3.	En cas de rejet des données saisies dans un formulaire, toutes les données saisies peuvent être modifiées par l’utilisateur.
+4.	L’utilisateur est averti lorsqu’une saisie est sensible à la casse.
+5.	Un dispositif d’aide à la saisie est disponible pour l’utilisateur à chaque étape d’un processus complexe
+33. Le responsable éditorial pose la question de l’accessibilité des vidéos. Il devra prévoir…
+[plusieurs réponses]
+1.	Une durée maximale à déterminer.
+2.	Leur sous-titrage.
+3.	Leurs transcriptions textuelles.
+4.	Leur déclenchement par l’utilisateur.
+5.	L’indication de leur durée
+34. Dans un site multilingue, les rédacteurs doivent veiller à ce que…
+[plusieurs réponses]
+1.	Les liens vers les versions équivalentes de la page soient rédigés dans leur langue cible.
+2.	Les liens d’accès aux versions traduites pointent directement vers la traduction de la page courante.
+3.	Les liens vers les versions équivalentes de la page indiquent la langue de la page cible.
+4.	Les liens d’accès aux versions traduites pointent vers la page d’accueil dans la langue cible.
+5.	Le libellé de chaque lien interne précise la langue de la page cible
+35. Les redirections automatiques…
+[une réponse]
+1.	Sont accompagnées du code d’erreur http approprié.
+2.	Sont accompagnées d’un message d’erreur personnalisé.
+3.	S’effectuent côté serveur.
+4.	Ne sont pas utilisées.
+5.	S’effectuent côté client
+36. La possibilité d’afficher en clair la saisie d’un mot de passe est importante en particulier pour…
+[plusieurs réponses]
+1.	Éviter les consultations frauduleuses des mots de passe par des tiers.
+2.	Permettre aux utilisateurs de vérifier rapidement s’ils ont saisi correctement leur mot de passe.
+3.	Améliorer l’expérience utilisateur en lui donnant plus de contrôle selon le contexte et ses besoins.
+4.	Obliger lʼutilisateur à employer des caractères spéciaux.
+5.	Faciliter la saisie des mots de passe, notamment sur les claviers virtuels des terminaux mobiles.
+37. L’UX designer et l’intégrateur posent la question de l’accessibilité des champs de formulaires et de leurs étiquettes. Ils devront savoir que…
+[plusieurs réponses]
+1.	L’étiquette de chaque champ de formulaire devra indiquer si la saisie est obligatoire.
+2.	Le format de saisie des champs de formulaire qui le nécessitent devra être indiqué.
+3.	L’emplacement de chaque étiquette de champ de formulaire devra être prévisible.
+4.	La saisie dans les champs de formulaire devra être insensible à la casse.
+5.	Chaque étiquette de formulaire devra être visuellement rattachée au champ qu’elle décrit.
+38. Parmi les règles d’assurance qualité suivantes, lesquelles doivent absolument être mobilisées dans les contenus éditoriaux ?
+[plusieurs réponses]
+1.	Les titres des tableaux de données sont renseignés.
+2.	Chaque graphique est accompagné d’un titre explicite.
+3.	Le contenu de chaque page est organisé selon une structure de titres et sous-titres hiérarchisée.
+4.	Le titre de chaque page permet d’identifier son contenu.
+5.	Les titres de liens signalent l’ouverture d’une nouvelle fenêtre
+39. Baliser de façon appropriée les entêtes et les cellules de contenu des tableaux de données…
+[plusieurs réponses]
+1.	Permet d’optimiser les performances de rendu.
+2.	Est nécessaire en cas de tableaux de données complexes.
+3.	Est nécessaire pour assurer une interprétation correcte des tableaux par les aides techniques.
+4.	Bénéficie à certaines personnes en situation de handicap.
+40. Le responsable éditorial pose la question de l’accessibilité des animations visuelles déclenchées automatiquement. Celles-ci…
+[plusieurs réponses]
+1.	Ne devront pas être utilisées.
+2.	Ne devront pas bloquer l’accès au contenu après affichage de la page.
+3.	Devront pouvoir être mises en pause.
+4.	Ne devront pas excéder 10 secondes.
+41. Lors de cette sensibilisation, on évoque la notion de contextes utilisateurs. Quelle est la bonne définition ?
+[une réponse]
+1.	Analyse des motivations des utilisateurs d’un service en ligne.
+2.	Ensemble de paramètres permettant de décrire la situation (logicielle, matérielle, culturelle, physique, psychologique, etc.) de l’utilisateur d’un service en ligne.
+3.	Informations sur les navigateurs web et les logiciels utilisés par les visiteurs d’un site.
+4.	Analyse des habitudes de navigation des utilisateurs sur un site web
+42. Lors de cette sensibilisation, on évoque la notion d’agrégateur. De quoi s’agit-il ?
+[une réponse]
+1.	Un logiciel ou une fonctionnalité serveur qui exploite des flux RSS.
+2.	Un algorithme qui collecte des données autorisées sur les utilisateurs d’un site web.
+3.	Un outil utilisé pour créer des sites web à partir de contenus générés automatiquement.
+4.	Une fonctionnalité de recherche permettant de filtrer des informations provenant de différents sites web.
+43. Lors de cette sensibilisation, on évoque la notion de base de données. De quoi s’agit-il ?
+[une réponse]
+1.	Une collection structurée d’informations, organisées afin d’être traitées par des moyens informatiques.
+2.	De la portion de stockage en ligne contenant la partie basique des données nécessaires au fonctionnement du site.
+3.	Une liste de liens hypertexte organisés de manière à faciliter la navigation sur un site web.
+4.	Une bibliothèque numérique contenant les fichiers de médias du site
+44. Lors de cette sensibilisation, on évoque la notion d’application web. De quoi s’agit-il ?
+[une réponse]
+1.	Un logiciel d’adaptation des sites web aux petits écrans (small-device).
+2.	Un logiciel en ligne de création de sites web.
+3.	Un générateur de gabarits de pages pour l’intégration HTML CSS.
+4.	Un logiciel en ligne utilisable dans un agent utilisateur
+45. Lors de cette sensibilisation, on évoque la notion d’ARIA. De quoi s’agit-il ?
+[une réponse]
+1.	Un framework de conception graphique.
+2.	Un langage de programmation permettant de créer des effets visuels avancés et des animations interactives.
+3.	Un algorithme d’optimisation du référencement.
+4.	Une spécification technique pour les interfaces riches
+46. Lors de cette sensibilisation, on évoque la notion d’AJAX. De quoi s’agit-il ?
+[une réponse]
+1.	Une technique de compression des fichiers d’un site web pour optimiser le temps de chargement des pages.
+2.	Une utilisation de JavaScript pour la gestion dynamique des requêtes et des modifications de l’arbre du document.
+3.	Un langage de programmation utilisé pour créer des animations.
+4.	D’un langage de programmation web antérieure au HTML, aujourd’hui déprécié
+47. Quelle règle réaliste peut être retenue pour la qualité des contenus éditoriaux ?
+[une réponse]
+1.	Tous les liens externes du site sont valides.
+2.	Tous les liens internes du site sont valides.
+3.	Tous les liens du site sont valides
+48. Lors de cette sensibilisation, on évoque la notion de contenu à accès limité. Quelle est la bonne définition ?
+[une réponse]
+1.	Des contenus non accessibles aux personnes en situation de handicap.
+2.	Un ensemble de pages web ou de contenus dont l’accès nécessite une authentification.
+3.	Des contenus balisés de manière à ne pas être indexables par les robots des moteurs de recherche externes.
+4.	Les contenus dont l’accès est légalement réservé à un public majeur
+49. Lors de cette sensibilisation, on évoque la notion de check-list. Quelle est la bonne définition ?
+[une réponse]
+1.	Un document construit dans le but de ne pas oublier les étapes nécessaires d’une procédure.
+2.	Un document dont les cases à cocher doivent être contrôlées avant la mise en production par le chargé de projet.
+3.	Un document en ligne à compléter avant la mise en production par chacune des équipes.
+4.	Un choix de mots-clés à inclure dans le contenu d’un site web afin d’améliorer son référencement et sa visibilité sur les moteurs de recherche
+50. Lors de cette sensibilisation, on évoque la notion de COQ. Quelle est la bonne définition ?
+[une réponse]
+1.	La « Conception Optimisée Quotidienne » est une démarche d’amélioration progressive visant à optimiser régulièrement le code et les fonctionnalités d’un site web.
+2.	Le « Contrôle d’Obtention de la Qualité » est une méthode d’évaluation des coûts d’assurance qualité.
+3.	Les « Coûts d’Obtention de la Qualité » sont des coûts de production et de prévention nécessaires pour maintenir la qualité du site ou du service.
+4.	La « Conception Orientée Qualité » est une démarche d’assurance qualité transversale et multi-métiers.

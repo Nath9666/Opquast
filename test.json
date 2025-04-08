@@ -1,0 +1,542 @@
+{
+  "action": "wp_pro_quiz_admin_ajax",
+  "func": "updateQuiz",
+  "data": {
+    "quizId": 3,
+    "status": 2,
+    "results": {
+      "241": {
+        "time": 19,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 1, 1, 0]
+      },
+      "242": {
+        "time": 106,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 0, 1]
+      },
+      "243": {
+        "time": 9,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 1, 1, 0]
+      },
+      "244": {
+        "time": 9,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 1, 0, 0, 0]
+      },
+      "245": {
+        "time": 17,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 0, 1, 1]
+      },
+      "246": {
+        "time": 20,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 0, 0, 0]
+      },
+      "247": {
+        "time": 18,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 0, 1, 0, 1]
+      },
+      "248": {
+        "time": 20,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 0, 1]
+      },
+      "249": {
+        "time": 14,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 0, 1]
+      },
+      "250": {
+        "time": 17,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 0, 1, 0, 0]
+      },
+      "251": {
+        "time": 18,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 0, 0, 0, 1]
+      },
+      "252": {
+        "time": 30,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 1, 0, 1]
+      },
+      "253": {
+        "time": 29,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 1, 0, 1]
+      },
+      "254": {
+        "time": 28,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 0, 1, 1, 0]
+      },
+      "255": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 1, 0]
+      },
+      "256": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 0, 1, 0]
+      },
+      "257": {
+        "time": 8,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 1, 0, 0]
+      },
+      "258": {
+        "time": 8,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 0, 0, 0]
+      },
+      "259": {
+        "time": 19,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 0, 0, 0]
+      },
+      "260": {
+        "time": 30,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 0, 1, 1, 1]
+      },
+      "261": {
+        "time": 20,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 1, 0]
+      },
+      "262": {
+        "time": 29,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 1, 0]
+      },
+      "264": {
+        "time": 15,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 1, 1, 0]
+      },
+      "265": {
+        "time": 220,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 0, 0, 1]
+      },
+      "266": {
+        "time": 21,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 1, 0, 0]
+      },
+      "267": {
+        "time": 19,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 0, 1, 0, 0]
+      },
+      "268": {
+        "time": 40,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 0, 0, 0]
+      },
+      "269": {
+        "time": 47,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 0, 0, 1]
+      },
+      "270": {
+        "time": 12,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 1, 0]
+      },
+      "271": {
+        "time": 8,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0]
+      },
+      "272": {
+        "time": 9,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "274": {
+        "time": 18,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 0, 0]
+      },
+      "276": {
+        "time": 19,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "277": {
+        "time": 19,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0]
+      },
+      "279": {
+        "time": 13,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 0, 1]
+      },
+      "281": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0]
+      },
+      "282": {
+        "time": 18,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 0, 1]
+      },
+      "283": {
+        "time": 16,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "284": {
+        "time": 10,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 0, 0]
+      },
+      "285": {
+        "time": 34,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "286": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "287": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 0, 0]
+      },
+      "288": {
+        "time": 15,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 0, 1]
+      },
+      "289": {
+        "time": 17,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "290": {
+        "time": 10,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "291": {
+        "time": 21,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 0, 0]
+      },
+      "293": {
+        "time": 8,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0]
+      },
+      "294": {
+        "time": 17,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "295": {
+        "time": 8,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0]
+      },
+      "296": {
+        "time": 11,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 0, 1]
+      },
+      "297": {
+        "time": 8,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "298": {
+        "time": 15,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 0, 1]
+      },
+      "299": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "300": {
+        "time": 11,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "301": {
+        "time": 10,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0]
+      },
+      "302": {
+        "time": 8,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 0, 1]
+      },
+      "303": {
+        "time": 46,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 0, 0]
+      },
+      "304": {
+        "time": 8,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "305": {
+        "time": 14,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 0, 1, 1]
+      },
+      "306": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0]
+      },
+      "307": {
+        "time": 9,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0, 0]
+      },
+      "308": {
+        "time": 8,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 0, 0, 1]
+      },
+      "309": {
+        "time": 10,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 0, 1, 0]
+      },
+      "310": {
+        "time": 7,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 0, 0]
+      },
+      "311": {
+        "time": 7,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 0, 0, 1]
+      },
+      "312": {
+        "time": 61,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 0, 0, 1, 0]
+      },
+      "313": {
+        "time": 7,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 0, 0]
+      },
+      "314": {
+        "time": 8,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 0, 0, 0, 1]
+      },
+      "315": {
+        "time": 17,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [0, 1, 0, 1, 0]
+      },
+      "316": {
+        "time": 8,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 0, 1]
+      },
+      "317": {
+        "time": 9,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 0, 1]
+      },
+      "318": {
+        "time": 9,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 1, 1, 0]
+      },
+      "319": {
+        "time": 9,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [0, 1, 1, 0, 1]
+      },
+      "322": {
+        "time": 56,
+        "solved": 1,
+        "points": 0,
+        "correct": 0,
+        "data": [1, 1, 1, 0]
+      },
+      "323": {
+        "time": 9,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 1, 0, 1, 0]
+      },
+      "324": {
+        "time": 69,
+        "solved": 1,
+        "points": 1,
+        "correct": 1,
+        "data": [1, 0, 1, 0]
+      }
+    }
+  }
+}
